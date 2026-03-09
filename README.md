@@ -2,8 +2,8 @@
 ### Técnico en Ciberseguridad | SOC, Detección de Amenazas & Seguridad Defensiva
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:TU_EMAIL@EJEMPLO.COM" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/STATUS-MONITORING_THREATS-green?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY-blue?style=for-the-badge" />
 </p>
 
 ---
