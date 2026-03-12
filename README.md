@@ -1,4 +1,6 @@
-# Hola, soy Edyn Domínguez 👋 
+# Hi there! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6ad473a0-e9fb-4dd3-a601-d94eb96e2546" />
+
+ 
 ### Técnico en Ciberseguridad | SOC, Detección de Amenazas & Seguridad Defensiva
 
 <p align="left">
