@@ -1,4 +1,4 @@
-# Hi there! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6ad473a0-e9fb-4dd3-a601-d94eb96e2546" />
+# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
 
  
 ### Técnico en Ciberseguridad | SOC, Detección de Amenazas & Seguridad Defensiva
