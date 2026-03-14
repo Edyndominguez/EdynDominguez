@@ -1,55 +1,67 @@
-# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
-
- 
-### Técnico en Ciberseguridad | SOC, Detección de Amenazas & Seguridad Defensiva
+# EDYN DOMÍNGUEZ
+### `// CYBERSECURITY ANALYST | SOC · THREAT DETECTION · DEFENSIVE SECURITY`
 
 <p align="left">
-  <img src="https://img.shields.io/badge/STATUS-MONITORING_THREATS-green?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-MONITORING_THREATS-brightgreen?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/ROLE-ANALYST-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPEN_TO-WORK-red?style=for-the-badge" />
 </p>
 
 ---
 
-### 🛡️ Sobre mí
+```bash
+edyn@soc:~$ cat about.txt
 
-Me apasiona proteger infraestructuras digitales y fortalecer la postura de seguridad de las organizaciones. Mi enfoque principal está en las **Operaciones de Seguridad (SOC)**, el análisis de eventos y la respuesta ante incidentes. 
+  Analista de Ciberseguridad enfocado en Operaciones de Seguridad (SOC),
+  detección de amenazas y respuesta a incidentes.
 
-- 🔭 **Objetivo actual:** Crecer como Analista de Ciberseguridad y profundizar en entornos de monitoreo crítico.
-- ⚡ **Enfoque:** Automatización de tareas de seguridad con Python y administración robusta en Linux.
-- 🔐 **Intereses:** Threat Hunting, Análisis de Redes y Seguridad Defensiva.
-
----
-
-### 🛠️ Tech Stack & Herramientas
-
-| Categoría | Herramientas y Tecnologías |
-| :--- | :--- |
-| **Seguridad Operativa** | ![SIEM](https://img.shields.io/badge/SIEM-D32F2F?style=flat-square&logo=splunk&logoColor=white) ![Threat Detection](https://img.shields.io/badge/Threat_Detection-000000?style=flat-square&logo=target&logoColor=white) ![Network Analysis](https://img.shields.io/badge/Network_Analysis-42A5F5?style=flat-square&logo=wireshark&logoColor=white) |
-| **Lenguajes & Automatización** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Sistemas & Infraestructura** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
-| **Cloud & Otros** | ![Vulnerability Assessment](https://img.shields.io/badge/Vuln_Assessment-607D8B?style=flat-square&logo=fortinet&logoColor=white) |
+  → Objetivo : Crecer como Analista en entornos de monitoreo crítico.
+  → Enfoque  : Automatización con Python · Hardening Linux/Windows.
+  → Intereses: Threat Hunting · Análisis de Redes · Blue Team.
+```
 
 ---
 
-### 📂 ¿Qué encontrarás en mis repositorios?
+### 🛠️ Tech Stack
 
-* 🧪 **Laboratorios:** Prácticas reales de análisis y defensa.
-* 📜 **Scripts:** Automatización de análisis de logs y tareas repetitivas en Python/Bash.
-* 📖 **Documentación:** Investigaciones detalladas sobre nuevas amenazas y conceptos de seguridad.
-
----
-
-### 📚 Aprendizaje Continuo (WIP)
-
-- 🔍 Perfeccionando técnicas de **Threat Hunting**.
-- 📊 Profundizando en el análisis avanzado de logs y correlación de eventos.
-- 🛡️ Implementación de frameworks de seguridad defensiva.
+| Categoría | Herramientas |
+|:---|:---|
+| **Seguridad Operativa** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square) ![Nuclei](https://img.shields.io/badge/Nuclei-00E5FF?style=flat-square) |
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Sistemas** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Frameworks** | NIST · ISO 27001 · OWASP Top 10 · CVSS |
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📂 Repositorios
+
+```bash
+edyn@soc:~/repos$ ls -la
+
+  🧪 /labs     → Análisis de tráfico, capturas Wireshark, hardening
+  📜 /scripts  → Automatización Python/Bash para análisis de logs
+  📖 /writeups → Documentación de amenazas y frameworks de seguridad
+```
+
+---
+
+### 📜 Certificaciones
+
+```
+✓ Cisco Networking Academy — Ciberseguridad · Redes · Python 1 & 2
+✓ IBM SkillsBuild — Fundamentos de IA · Ciencia de Datos
+○ University of Helsinki — Elements of AI (2026)
+○ Próximo: Google Cybersecurity Certificate
+```
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=chartreuse-dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=chartreuse-dark" />
 </p>
+
+---
+<p align="center"><sub>&lt;!-- Always learning. Always defending. --&gt;</sub></p>
