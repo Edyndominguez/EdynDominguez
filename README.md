@@ -59,7 +59,7 @@
 
 ---
 
-### 📜 Certificaciones
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="25" height="25" /> Certificaciones
 
 | Institución | Certificado | Año | Estado |
 |:---|:---|:---:|:---:|
