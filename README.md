@@ -1,4 +1,4 @@
-# Hola soy EDYN DOMÍNGUEZ
+# ¡Hola a todos! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Soy Edyn Dominguez <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" />
 ### `// CYBERSECURITY ANALYST | SOC · THREAT DETECTION · DEFENSIVE SECURITY`
 
 <p align="left">
