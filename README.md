@@ -1,6 +1,5 @@
 # ¡Hola a todos! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Soy Edyn Dominguez <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" />
 ### `// CYBERSECURITY ANALYST | SOC · THREAT DETECTION · DEFENSIVE SECURITY` ![SOC](https://img.shields.io/badge/Focus-SOC%20Operations-blue?style=for-the-badge&logo=splunk) ![ThreatDetection](https://img.shields.io/badge/Specialty-Threat%20Detection-red?style=for-the-badge&logo=fortinet)
-
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-MONITORING_THREATS-brightgreen?style=for-the-badge&logo=target" />
   <img src="https://img.shields.io/badge/ROLE-ANALYST-blue?style=for-the-badge" />
