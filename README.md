@@ -10,16 +10,21 @@
 
 ---
 
-```bash
-edyn@soc:~$ cat about.txt
+---
 
-  Analista de Ciberseguridad enfocado en Operaciones de Seguridad (SOC),
-  detección de amenazas y respuesta a incidentes.
+## 🛡️ Sobre mí:
 
-  → Objetivo : Crecer como Analista en entornos de monitoreo crítico.
-  → Enfoque  : Automatización con Python · Hardening Linux/Windows.
-  → Intereses: Threat Hunting · Análisis de Redes · Blue Team.
-```
+- 🎓 Técnico en Ciberseguridad por el **ITSE (2026)** — Panamá 🇵🇦
+- 🔭 Actualmente enfocado en **Operaciones SOC** y detección de amenazas
+- 🐍 Uso frecuente: **Python · Bash · Wireshark · Nmap**
+- 📖 Estudiando actualmente: **Elements of AI** — University of Helsinki
+- 🌐 Conectemos en [LinkedIn](https://linkedin.com/in/TU_USUARIO)
+- ⚡ Fun fact: Creo que el mejor antivirus es el **conocimiento del atacante**
+- 🛠️ Herramientas que uso:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali" />
+</p>
 
 ---
 
