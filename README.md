@@ -12,7 +12,7 @@
 
 
 
-## 🛡️ Sobre mí:
+## Sobre mí:
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Técnico en Ciberseguridad por el **ITSE (2026)** — Panamá 🇵🇦
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" />  Actualmente enfocado en **Operaciones SOC** y detección de amenazas
@@ -49,17 +49,6 @@
 ![ISO27001](https://img.shields.io/badge/ISO_27001-0078D6?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge)
 ![CVSS](https://img.shields.io/badge/CVSS-red?style=for-the-badge)
----
-
-### 🛠️ Tech Stack
-
-| Categoría | Herramientas |
-|:---|:---|
-| **Seguridad Operativa** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square) ![Nuclei](https://img.shields.io/badge/Nuclei-00E5FF?style=flat-square) |
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Sistemas** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Frameworks** | NIST · ISO 27001 · OWASP Top 10 · CVSS |
-
 ---
 
 ### 📂 Repositorios
