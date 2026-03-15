@@ -1,5 +1,7 @@
 # ¡Hola a todos! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Soy Edyn Dominguez <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" />
-### `// CYBERSECURITY ANALYST | SOC · THREAT DETECTION · DEFENSIVE SECURITY` ![SOC](https://img.shields.io/badge/Focus-SOC%20Operations-blue?style=for-the-badge&logo=splunk) ![ThreatDetection](https://img.shields.io/badge/Specialty-Threat%20Detection-red?style=for-the-badge&logo=fortinet)
+### <h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%2F%2F+CYBERSECURITY+ANALYST;SOC+%C2%B7+THREAT+DETECTION+%C2%B7+DEFENSIVE+SECURITY" alt="Typing SVG" />
+</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-MONITORING_THREATS-brightgreen?style=for-the-badge&logo=target" />
   <img src="https://img.shields.io/badge/ROLE-ANALYST-blue?style=for-the-badge" />
