@@ -14,7 +14,7 @@
 
 ## 🛡️ Sobre mí:
 
-- 🎓 Técnico en Ciberseguridad por el **ITSE (2026)** — Panamá 🇵🇦
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Técnico en Ciberseguridad por el **ITSE (2026)** — Panamá 🇵🇦
 - 🔭 Actualmente enfocado en **Operaciones SOC** y detección de amenazas
 - 🐍 Uso frecuente: **Python · Bash · Wireshark · Nmap**
 - 📖 Estudiando actualmente: **Elements of AI** — University of Helsinki
