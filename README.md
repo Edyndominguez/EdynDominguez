@@ -59,28 +59,27 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="25" height="25" /> Certificaciones
+### 📜 Certificaciones Técnicas
 
-| Institución | Certificado | Año | Estado |
-|:---|:---|:---:|:---:|
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción a la Ciberseguridad | 2024 | ✅ |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción a la Ciencia de Datos | 2024 | ✅ |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conceptos Básicos de Redes | 2024 | ✅ |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción al Internet de las Cosas | 2024 | ✅ |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conciencia Digital | 2024 | ✅ |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Fundamentos de Python 1 | 2024 | ✅ |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Fundamentos de Python 2 | 2025 | ✅ |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conceptos Básicos de Hardware | 2025 | ✅ |
-| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | Fundamentos de IA con IBM SkillsBuild | 2024 | ✅ |
-| ![Helsinki](https://img.shields.io/badge/U._Helsinki-003580?style=flat-square) | Elements of AI — MinnaLearn | 2026 | ✅ |
-
+| Institución | Certificado | Año | Estado | |
+|:---|:---|:---:|:---:|:---:|
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción a la Ciberseguridad | 2024 | ✅ | [📄](./certificates/cisco/ciberseguridad.pdf) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción a la Ciencia de Datos | 2024 | ✅ | [📄](./certificates/cisco/ciencia-de-datos.pdf) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conceptos Básicos de Redes | 2024 | ✅ | [📄](./certificates/cisco/redes.pdf) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción al Internet de las Cosas | 2024 | ✅ | [📄](./certificates/cisco/iot.pdf) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conciencia Digital | 2024 | ✅ | [📄](./certificates/cisco/conciencia-digital.pdf) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Fundamentos de Python 1 | 2024 | ✅ | [📄](./certificates/cisco/python1.pdf) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Fundamentos de Python 2 | 2025 | ✅ | [📄](./certificates/cisco/python2.pdf) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conceptos Básicos de Hardware | 2025 | ✅ | [📄](./certificates/cisco/hardware.pdf) |
+| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | Fundamentos de IA con IBM SkillsBuild | 2024 | ✅ | [📄](./certificates/ibm/fundamentos-ia.pdf) |
+| ![Helsinki](https://img.shields.io/badge/U._Helsinki-003580?style=flat-square) | Elements of AI — MinnaLearn | 2026 | ✅ | [🔗](https://certificates.mooc.fi/validate/8r85jqi6kc6) |
 
 ### 🌱 Desarrollo Personal
 
-| Certificado | Año | |
-|:---|:---:|:---:|
-| ![RSE](https://img.shields.io/badge/RSE-Responsabilidad_Social_Empresarial-2e7d32?style=flat-square) | 2025 | [📄](./certificates/otros/rse-responsabilidad-social.pdf) |
-| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | 2025 | [📄](./certificates/otros/7-habitos-jovenes-efectivos.pdf) |
+| Certificado | Año | Estado | |
+|:---|:---:|:---:|:---:|
+| ![RSE](https://img.shields.io/badge/RSE-Responsabilidad_Social_Empresarial-2e7d32?style=flat-square) | — | ✅ | [📄](./certificates/otros/rse-responsabilidad-social.pdf) |
+| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | — | ✅ | [📄](./certificates/otros/7-habitos-jovenes-efectivos.pdf) |
 ---
 
 
