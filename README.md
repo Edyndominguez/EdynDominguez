@@ -63,7 +63,7 @@
 
 | Institución | Certificado | Año | Estado | |
 |:---|:---|:---:|:---:|:---:|
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción a la Ciberseguridad | 2024 | ✅ | [📄](./certificates/cisco/ciberseguridad.pdf) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción a la Ciberseguridad | 2024 | ✅ | [📄](./certificates/cisco/ciberseguridad.pdf)
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción a la Ciencia de Datos | 2024 | ✅ | [📄](./certificates/cisco/ciencia-de-datos.pdf) |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conceptos Básicos de Redes | 2024 | ✅ | [📄](./certificates/cisco/redes.pdf) |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción al Internet de las Cosas | 2024 | ✅ | [📄](./certificates/cisco/iot.pdf) |
