@@ -74,7 +74,7 @@
 | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | Fundamentos de IA con IBM SkillsBuild | 2024 | ✅ | [📄](./certificates/ibm/fundamentos-ia.pdf) |
 | ![Helsinki](https://img.shields.io/badge/U._Helsinki-003580?style=flat-square) | Elements of AI — MinnaLearn | 2026 | ✅ | [🔗](https://certificates.mooc.fi/validate/8r85jqi6kc6) |
 
-### 🌱 Desarrollo Personal
+### 🌱 Desarrollo Personal 
 
 | Certificado | Año | Estado | |
 |:---|:---:|:---:|:---:|
