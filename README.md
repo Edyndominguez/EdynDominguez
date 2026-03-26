@@ -74,13 +74,12 @@
 | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | Fundamentos de IA con IBM SkillsBuild | 2024 | ✅ | [📄](./certificates/cisco/certificates/ibm/fundamentos-ia.pdf) |
 | ![Helsinki](https://img.shields.io/badge/U._Helsinki-003580?style=flat-square) | Elements of AI — MinnaLearn | 2026 | ✅ | [🔗](https://certificates.mooc.fi/validate/8r85jqi6kc6) |
 
-### 🌱 Desarrollo Personal 
+### 🌱 Desarrollo Personal
 
 | Certificado | Año | Estado | |
 |:---|:---:|:---:|:---:|
 | ![RSE](https://img.shields.io/badge/RSE-Responsabilidad_Social_Empresarial-2e7d32?style=flat-square) | — | ✅ | [📄](./certificates/otros/rse-responsabilidad-social.pdf) |
-| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | — | ✅ | [📄](./certificates/otros/rse-responsabilidad-social.pdf) |
----
+| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | — | ✅ | [📄](./certificates/otros/7-habitos-jovenes-efectivos.pdf) |
 
 
 
