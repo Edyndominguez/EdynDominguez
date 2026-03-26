@@ -65,7 +65,7 @@
 |:---|:---|:---:|:---:|:---:|
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción a la Ciberseguridad | 2024 | ✅ | [📄](./certificates/cisco/ciberseguridad.pdf)
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción a la Ciencia de Datos | 2024 | ✅ | [📄](certificates/cisco/ciencia-de-datos.pdf) |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conceptos Básicos de Redes | 2024 | ✅ | [📄](certificates/cisco/redes.pdf) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conceptos Básicos de Redes | 2024 | ✅ | [📄](certificates/cisco/des.pdf) |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Introducción al Internet de las Cosas | 2024 | ✅ | [📄](./certificates/cisco/iot.pdf) |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conciencia Digital | 2024 | ✅ | [📄](./certificates/cisco/conciencia-digital.pdf) |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Fundamentos de Python 1 | 2024 | ✅ | [📄](./certificates/cisco/python1.pdf) |
@@ -79,7 +79,7 @@
 | Certificado | Año | Estado | |
 |:---|:---:|:---:|:---:|
 | ![RSE](https://img.shields.io/badge/RSE-Responsabilidad_Social_Empresarial-2e7d32?style=flat-square) | — | ✅ | [📄](./certificates/otros/rse-responsabilidad-social.pdf) |
-| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | — | ✅ | [📄](./certificates/otros/7-habitos-jovenes-efectivos.pdf) |
+| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | — | ✅ | [📄](ccertificates/cisco/certificates/ibm/certificates/otros/FranklinCovey 7 Hábitos Jóvenes Efectivos.pdf)  
 ---
 
 
