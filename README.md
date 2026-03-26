@@ -78,8 +78,8 @@
 
 | Certificado | Año | Estado | |
 |:---|:---:|:---:|:---:|
-| ![RSE](https://img.shields.io/badge/RSE-Responsabilidad_Social_Empresarial-2e7d32?style=flat-square) | — | ✅ | [📄](./certificates/cisco/certificates/ibm/certificates/otros/certificates/otros/rse-responsabilidad-social.pdf) |
-| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | — | ✅ | [📄](./certificates/cisco/certificates/ibm/certificates/otros/certificates/otros/certificates/otros/7-habitos-jovenes-efectivos.pdf) |
+| ![RSE](https://img.shields.io/badge/RSE-Responsabilidad_Social_Empresarial-2e7d32?style=flat-square) | 2025 | ✅ | [📄](./certificates/cisco/certificates/ibm/certificates/otros/certificates/otros/rse-responsabilidad-social.pdf) |
+| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | 2025 | ✅ | [📄](./certificates/cisco/certificates/ibm/certificates/otros/certificates/otros/certificates/otros/7-habitos-jovenes-efectivos.pdf) |
 
 
 
