@@ -72,7 +72,7 @@
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Fundamentos de Python 2 | 2025 | ✅ | [📄](./certificates/cisco/python2.pdf) |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Conceptos Básicos de Hardware | 2025 | ✅ | [📄](./certificates/cisco/hardware.pdf) |
 | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | Fundamentos de IA con IBM SkillsBuild | 2024 | ✅ | [📄](./certificates/cisco/certificates/ibm/fundamentos-ia.pdf) |
-| ![Helsinki](https://img.shields.io/badge/U._Helsinki-003580?style=flat-square) | Elements of AI — MinnaLearn | 2026 | ✅ | [🔗](https://certificates.mooc.fi/validate/8r85jqi6kc6) |
+| ![Helsinki](https://img.shields.io/badge/U._Helsinki-003580?style=flat-square) | Elements of AI — MinnaLearn | 2026 | ✅ | [📄](https://certificates.mooc.fi/validate/8r85jqi6kc6) |
 
 ### 🌱 Desarrollo Personal
 
