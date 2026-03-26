@@ -79,7 +79,7 @@
 | Certificado | Año | Estado | |
 |:---|:---:|:---:|:---:|
 | ![RSE](https://img.shields.io/badge/RSE-Responsabilidad_Social_Empresarial-2e7d32?style=flat-square) | — | ✅ | [📄](./certificates/otros/rse-responsabilidad-social.pdf) |
-| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | — | ✅ | [📄](./certificates/otros/7-habitos-jovenes-efectivos.pdf) |
+| ![Hábitos](https://img.shields.io/badge/FranklinCovey-7_Hábitos_Jóvenes_Efectivos-FF6F00?style=flat-square) | — | ✅ | [📄](./7-habitos-jovenes-efectivos.pdf) |
 ---
 
 
