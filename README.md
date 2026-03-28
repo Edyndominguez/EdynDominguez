@@ -54,8 +54,8 @@
 
 | Repositorio | Descripción | Estado |
 |:---|:---|:---:|
-| 📡 [EvilPortal-Lab-Captive-Portal-Offensive-con-M5Stack-Bruce](https://github.com/Edyndominguez/EvilPortal-Lab-Captive-Portal-Offensive-con-M5Stack-Bruce) | Evil Portal con M5Stack Bruce, captive portal phishing WiFi, +100 credenciales capturadas | ✅ Completado |
-| 🍯 [tpot-honeypot-lab](https://github.com/Edyndominguez/tpot-honeypot-lab) | Honeypot T-Pot CE — análisis de +350,000 ataques reales, mitigación con iptables/ufw, threat intelligence | ✅ Completado |
+| 📡 [EvilPortal-Lab-Captive-Portal-Offensive-con-M5Stack-Bruce](https://github.com/Edyndominguez/EvilPortal-Lab-Captive-Portal-Offensive-con-M5Stack-Bruce) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="25" height="25" />| Evil Portal con M5Stack Bruce, captive portal phishing WiFi, +100 credenciales capturadas | ✅ Completado |
+| 🍯 [tpot-honeypot-lab](https://github.com/Edyndominguez/tpot-honeypot-lab) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="25" height="25" /> | Honeypot T-Pot CE — análisis de +350,000 ataques reales, mitigación con iptables/ufw, threat intelligence | ✅ Completado |
 | 🕵️ `INFOSTEALERS` | Creación de malware tipo infostealer — técnicas de exfiltración de credenciales, cookies y datos del sistema | 🔄 En proceso |
 | 📡 `Jammer-Bruce-Firmware` | Implementación de jammer con firmware Bruce en M5Stack — análisis de interferencia de señales WiFi y BLE | 🔄 En proceso |
 
