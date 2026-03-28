@@ -15,10 +15,10 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Técnico en Ciberseguridad por el **ITSE (2026)** — Panamá 🇵🇦
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" />  Actualmente enfocado en **Operaciones SOC** y detección de amenazas
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" /> Uso frecuente: **Python · Wireshark · Nmap · Nuclei**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> Estudiando actualmente: **Elements of AI** — University of Helsinki
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" /> Uso frecuente de **Python · Wireshark · Nmap · Nuclei**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> Estudiando actualmente
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> - Conectemos en [LinkedIn](https://www.linkedin.com/in/edyn-dom%C3%ADnguez-291255391)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="25" height="25" /> Fun fact: Creo que el mejor antivirus es el **conocimiento del atacante**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="25" height="25" /> Técnico en Ciberseguridad de nivel inicial con formación académica y certificaciones en ciberseguridad, redes y fundamentos de programación. Con ganas de adquirir experiencia práctica y crecer profesionalmente en el campo de la ciberseguridad.
 
 
 ## 🛠️ Tech Stack
@@ -29,6 +29,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-00E5FF?style=for-the-badge&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![FinalRecon](https://img.shields.io/badge/FinalRecon-222222?style=for-the-badge&logo=python&logoColor=white)
 
 **💻 Lenguajes & Automatización**
 
@@ -53,9 +54,8 @@
 
 | Repositorio | Descripción | Estado |
 |:---|:---|:---:|
-| 🧪 `labs` | Análisis de tráfico, capturas Wireshark, hardening | 🔄 En progreso |
-| 📜 `scripts` | Automatización Python/Bash para análisis de logs | 🔄 En progreso |
-| 📖 `writeups` | Documentación de amenazas y frameworks de seguridad | 🔄 En progreso |
+| 📡 [EvilPortal-Lab-Captive-Portal-Offensive-con-M5Stack-Bruce](https://github.com/Edyndominguez/EvilPortal-Lab-Captive-Portal-Offensive-con-M5Stack-Bruce) | Evil Portal con M5Stack Bruce, captive portal phishing WiFi, +100 credenciales capturadas | ✅ Completado |
+| 🍯 [tpot-honeypot-lab](https://github.com/Edyndominguez/tpot-honeypot-lab) | Honeypot T-Pot CE — análisis de +350,000 ataques reales, mitigación con iptables/ufw, threat intelligence | ✅ Completado |
 
 ---
 
