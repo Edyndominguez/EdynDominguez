@@ -56,6 +56,8 @@
 |:---|:---|:---:|
 | 📡 [EvilPortal-Lab-Captive-Portal-Offensive-con-M5Stack-Bruce](https://github.com/Edyndominguez/EvilPortal-Lab-Captive-Portal-Offensive-con-M5Stack-Bruce) | Evil Portal con M5Stack Bruce, captive portal phishing WiFi, +100 credenciales capturadas | ✅ Completado |
 | 🍯 [tpot-honeypot-lab](https://github.com/Edyndominguez/tpot-honeypot-lab) | Honeypot T-Pot CE — análisis de +350,000 ataques reales, mitigación con iptables/ufw, threat intelligence | ✅ Completado |
+| 🕵️ `INFOSTEALERS` | Creación de malware tipo infostealer — técnicas de exfiltración de credenciales, cookies y datos del sistema | 🔄 En proceso |
+| 📡 `Jammer-Bruce-Firmware` | Implementación de jammer con firmware Bruce en M5Stack — análisis de interferencia de señales WiFi y BLE | 🔄 En proceso |
 
 ---
 
