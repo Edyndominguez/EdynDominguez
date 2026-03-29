@@ -18,7 +18,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" /> Uso frecuente de **Python · Wireshark · Nmap · Nuclei**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> Estudiando actualmente Ciberseguridad
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> - Conectemos en [LinkedIn](https://www.linkedin.com/in/edyn-dom%C3%ADnguez-291255391)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="25" height="25" /> Técnico en Ciberseguridad de nivel inicial con formación académica y certificaciones en ciberseguridad, redes y fundamentos de programación. Con ganas de adquirir experiencia práctica y crecer profesionalmente en el campo de la ciberseguridad.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="25" height="25" /> Técnico en Ciberseguridad de nivel inicial con formación académica y certificaciones en ciberseguridad, redes y fundamentos de programación. Con ganas de adquirir experiencia práctica y crecer profesionalmente en el campo de la ciberseguridad.Con disposición para aprender en entornos reales y aportar valor desde el primer día.
 
 
 ## 🛠️ Tech Stack
